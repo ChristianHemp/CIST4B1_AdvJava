@@ -1,4 +1,4 @@
-# CIST4B1 Week 1 Refelction
+# CIST4B1 Week 1 Reflection
 
 ## Data Structures Slide Notes
 
