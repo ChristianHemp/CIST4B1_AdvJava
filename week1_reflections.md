@@ -39,6 +39,6 @@ Why Study Algorithms?
 - Universality: Allowing implementation in multiple languages
 - Problem Solving: Allows for completion of complex problems.
 
-## Short Reflection on What I've learned
+## Brief Reflection on What I've learned
 
 This week I've learned the basics of data structures and what they entail. This includes a basic understanding of the various types of data structures that exist to use, and an understanding of why data structures are important in programmming. Additionally, I've learned about what an algorithm is and why they are important to use logic to execute a series of steps to solve a problem. We also went over what makes some algorithms "better" than others, which is based on factors like precision, efficiency, and universality. Ultimately, when implementing data structures and aglorithms simplicity, speed, and space consumption are the most important factors to keep in mind.
