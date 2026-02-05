@@ -3,6 +3,7 @@ A Repository to document my Java learning journey
 
 ## About Me
 Aspiring programmer and cs student focused on Java for this course! 
+~1 year of experience with programming Interested in developing my skills and expanding my knowledge of all things related to computers!
 
 ## Goals for This Course
 -become a better programmer
