@@ -2,4 +2,7 @@
 
 ## Time/Space Complexity Notes
 
-Th
+Big O notation
+
+- Focuses on the worst case scenario
+- O(1) Constant TC: 
