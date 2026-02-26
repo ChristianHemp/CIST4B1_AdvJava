@@ -3,10 +3,13 @@ public class Node<T> {
     public T data;
 
     // Link
-    public Node next;
+    public Node<T> next;
+    
+    public Node<T> previous;
 
     Node(T data) {
         this.data = data;
         this.next = null;
+        this.previous = null;
     }
 }
