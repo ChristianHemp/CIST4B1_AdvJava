@@ -180,12 +180,12 @@ Get all neighbors of vertex: O(V)
 Traverse whole graph: O(V²)
 Best for dense graphs.
 Fast edge lookup, but high memory use.
-Graph Types
-Directed Graph
+# Graph Types
+## Directed Graph
 Edges have direction.
 Example: A → B
 Complexity is usually the same Big-O as undirected graphs.
-Undirected Graph
+## Undirected Graph
 Edges go both ways.
 Example: A — B
 In an adjacency list, each edge is usually stored twice.
