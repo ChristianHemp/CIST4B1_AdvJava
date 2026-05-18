@@ -1,9 +1,8 @@
 # CIST4B1_AdvJava
-A Repository to document my Java learning journey
+Bascially just an unorganized dump of some of my main data structs and algorithms from this course
 
 ## About Me
 Aspiring programmer and cs student focused on Java for this course! 
-~1 year of experience with programming Interested in developing my skills and expanding my knowledge of all things related to computers!
 
 ## Goals for This Course
 -become a better programmer
